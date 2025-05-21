@@ -91,4 +91,4 @@ Enter news headline: NASA to open space hotel by 2025
 ```
 
 screenshot:
-
+![Image](https://github.com/user-attachments/assets/16d5d202-1fed-4676-931b-2f8532993639)
